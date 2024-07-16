@@ -3,16 +3,20 @@
 layout: home
 
 hero:
-  name: "Le Y BME"
-  text: "Nguyen Le Y site for sharing experience in engineering."
-  tagline: My great project tagline
+  name: "Nguyen Le Y"
+  text: "a biomedical engineer"
+  tagline: Building the future of healthcare
+  image: /images/my.jpg
   actions:
     - theme: brand
-      text: Markdown Examples
-      link: /markdown-examples
+      text: Rocker
+      link: /rocker
     - theme: alt
-      text: API Examples
-      link: /api-examples
+      text: Uroflowmeter
+      link: /uroflowmeter   
+    - theme: alt
+      text: Blogs
+      link: /blogs
 
 features:
   - title: Feature A
