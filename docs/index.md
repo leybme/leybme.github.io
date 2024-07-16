@@ -45,11 +45,13 @@ features:
         <li>Experience with sensors, actuators, and communication protocols</li>
         <li>Bug fixing, testing, and optimization</li>
       </div>
-  - title: Management
+  - title: Management and research
     details: |
       <div>
         <li>Laboratory management experience</li>
-        <li>Director of a startup company</li
+        <li>Director of a startup company</li>
+        <li>Biophotonics,Optic research</li>
+        </div>
 
 
 ---
