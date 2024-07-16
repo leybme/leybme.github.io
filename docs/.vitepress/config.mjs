@@ -8,13 +8,13 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: 'Project', link: '/rocker' },
+      { text: 'Highlights', link: '/rocker' },
       { text: 'Blogs', link: '/blogs' },
     ],
 
     sidebar: [
       {
-        text: 'Project',
+        text: 'Highlights',
         items: [
           { text: 'Rocker Machine', link: '/rocker' },
           { text: 'Urflowmeter', link: '/uroflowmeter' },
