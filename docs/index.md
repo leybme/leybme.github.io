@@ -11,7 +11,7 @@ hero:
     - theme: brand
       text: Rocker
       link: /rocker
-    - theme: alt
+    - theme: brand
       text: Uroflowmeter
       link: /uroflowmeter   
     - theme: alt
@@ -24,6 +24,6 @@ features:
   - title: Hardware Dev
     details: PCB design,3D modeling, Bringing ideas to commercial products, Applied compliance
   - title: Management
-    details: Laboratory management experience, Startup experience
+    details: Laboratory management experience, Director of company, Startup experience
 ---
 
