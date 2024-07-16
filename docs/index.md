@@ -6,7 +6,7 @@ hero:
   name: "Nguyen Le Y"
   text: "a biomedical engineer"
   tagline: Building the future of healthcare
-  image: /images/my.jpg
+  image: /images/my-removebg.png
   actions:
     - theme: brand
       text: Rocker
@@ -19,11 +19,11 @@ hero:
       link: /blogs
 
 features:
-  - title: Feature A
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature B
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
-  - title: Feature C
-    details: Lorem ipsum dolor sit amet, consectetur adipiscing elit
+  - title: Software Dev
+    details: Fluency with C#, Building desktop applications,Developing websites
+  - title: Hadware Dev
+    details: PCB design,3D modeling, Bringing ideas to commercial products, Applied compliance
+  - title: Management
+    details: Laboratory management experience, Startup experience
 ---
 
