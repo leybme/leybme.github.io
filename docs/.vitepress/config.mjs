@@ -2,8 +2,8 @@ import { defineConfig } from 'vitepress'
 
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
-  title: "Le Y BME",
-  description: "Nguyen Le Y site for sharing experience in engineering.",
+  title: "Nguyen Le Y's Engineering Insights",
+  description: " A dedicated platform by Nguyen Le Y for sharing knowledge and experiences in engineering, focusing on embedded programming, hardware design, and biomedical instrumentation.",
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
     nav: [
