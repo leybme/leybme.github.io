@@ -13,3 +13,15 @@ To enable trade execution, I created a bridge linking TradingView to the MetaTra
 A significant feature of the system is its risk management component, which effectively controls trading risks and prevents overtrading. This project stands as a testament to my ability to integrate various technologies to create a seamless and automated trading solution.
 
 It's important to note that the algorithm is not public or for sale. This project underscores my capabilities in integrating various technologies to create a seamless and automated trading solution.
+
+## Images
+
+- Images of the TradingView strategy and backtesting results.
+ ![Images](/images/tradingsystem/1.png)
+ ![Images](/images/tradingsystem/2.png)
+
+- Images of bridge setup and configuration.
+![Images](/images/tradingsystem/3.png)
+![Images](/images/tradingsystem/4.png)
+- Images of the MetaTrader 4/5 platform and trade execution.
+![Images](/images/tradingsystem/5.png)
