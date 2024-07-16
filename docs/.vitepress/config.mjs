@@ -14,21 +14,45 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Highlights',
+        text: 'Projects',
         items: [
           { text: 'Rocker Machine', link: '/rocker' },
-          { text: 'Uroflowmeter', link: '/uroflowmeter' },
-          { text: 'Markdown Examples', link: '/markdown-examples' },
-          { text: 'Runtime API Examples', link: '/api-examples' }
+          { text: 'Uroflowmeter/Medical Device', link: '/uroflowmeter' },
+          { text: 'AI Breast Cancer Classification', link: '/ai-breast-cancer-classification' },
+          { text: 'Automation trading system', link: '/autotradingsystem' },
         ],
-      }
+      },
+      {
+        text: 'Blogs',
+        items: [
+          { text: '3D print', link: '/blogs/3dprintersettings' },
+
+        ],
+      },
     ],
+    footer: {
+      message: 'Open to remote works.',
+      copyright: 'Copyright © 2024-Nguyen Le Y'
+    },
 
     socialLinks: [
       { icon: 'github', link: 'https://github.com/leybme' },
       { icon: 'facebook', link: 'https://facebook.com/ley995' },
       { icon: 'linkedin', link: 'https://www.linkedin.com/in/nguyenley' },
-    ]
+    ],
+    search: {
+      provider: 'local'
+    }
+
   },
-  head: [['link', { rel: 'icon', href: '/images/favicon.ico' }]]
+  head: [['link', { rel: 'icon', href: '/images/favicon.ico' }]],
+  markdown: {
+    image: {
+      // image lazy loading is disabled by default
+      lazyLoading: true
+    }
+  },
+  lastUpdated: true,
+
+
 })

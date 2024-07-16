@@ -45,5 +45,11 @@ The rocker shaker machine will be used for various applications, including cell 
 
 - Images of the rocker shaker machine design.
 - Images of the mechanical components and shaking platform.
+  ![3D design](/images/rocker/3ddesign1.png)
+
+    ![3D design](/images/rocker/3ddesign3.png)
+
+    ![3D design](/images/rocker/3ddesign2.png)
+  
 - Images of the control system and user interface.
 - Video demonstration of the rocker shaker machine in operation.
