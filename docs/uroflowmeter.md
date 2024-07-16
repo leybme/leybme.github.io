@@ -1,31 +1,9 @@
 
-## Project Description: Design and Development of a Uroflowmeter
+# Design and Development of a Uroflowmeter
 
 ### Project Overview
 
 The project aims to design and develop a state-of-the-art uroflowmeter, a medical device used to measure the flow rate of urine over time. This device is critical for diagnosing and monitoring patients with lower urinary tract symptoms (LUTS) and other urological disorders. The uroflowmeter will be designed to be user-friendly, accurate, and cost-effective, providing both patients and healthcare providers with reliable and easy-to-interpret data.
-
-### Objectives
-
-1. **Design and Prototyping:**
-   - Create a robust design for the uroflowmeter, including a detailed schematic and PCB layout.
-   - Develop a prototype using the ESP32 S3 N16R2 microcontroller, ensuring efficient data processing and connectivity.
-
-2. **Component Integration:**
-   - Integrate a high-precision load cell sensor to accurately measure the flow rate of urine.
-   - Design a custom PCB to accommodate the necessary electronic components, ensuring compactness and reliability.
-
-3. **User Interface:**
-   - Develop a user-friendly interface for both patients and healthcare providers.
-   - Implement a display system to show real-time flow rate data and historical trends.
-
-4. **Cost Analysis and Optimization:**
-   - Conduct a thorough cost analysis of all components, including the microcontroller, load cell sensor, PCB, other electronic ICs, acrylic cover with UV print, and 3D printed parts.
-   - Optimize the design to ensure cost-effectiveness without compromising on quality and accuracy.
-
-5. **Testing and Validation:**
-   - Perform extensive testing to validate the accuracy and reliability of the uroflowmeter.
-   - Ensure the device complies with medical standards and regulations.
 
 ### Key technologies
 
