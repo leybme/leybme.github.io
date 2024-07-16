@@ -21,37 +21,29 @@ hero:
 features:
   - title: Software Development
     details: |
-      <div>
-        <li>Fluency with C++, C#, Python</li>
-        <li>Building desktop applications</li>
-        <li>Developing small websites</li>
-        <li>Experience with machine learning, image processing, and data analysis</li>
-      </div>
+      Fluency with C++, C#, Python<br>
+      Building desktop applications<br>
+      Developing small websites<br>
+      Experience with machine learning, image processing, and data analysis
   - title: Hardware Design
     details: |
-      <div>
-        <li>PCB design 2, 4 layers</li>
-        <li>3D CAD design, AutoDesk Fusion, Solidworks</li>
-        <li>3D Print, CNC, Anodized</li>
-        <li>Applied compliance CE, ISO</li>
-        <li><b>Bringing ideas to commercial products</b></li>
-      </div>
+      PCB design 2, 4 layers<br>
+      3D CAD design, AutoDesk Fusion, Solidworks<br>
+      3D Print, CNC, Anodized<br>
+      Applied compliance CE, ISO<br>
+      **Bringing ideas to commercial products**
   - title: Embedded Development
     details: |
-      <div>
-        <li>Fluency with C++, C#</li>
-        <li>Experience with STM32, ESP32, Arduino, Raspberry Pi</li>
-        <li>Developing firmware for embedded systems</li>
-        <li>Experience with sensors, actuators, and communication protocols</li>
-        <li>Bug fixing, testing, and optimization</li>
-      </div>
-  - title: Management and research
+      Fluency with C++, C#<br>
+      Experience with STM32, ESP32, Arduino, Raspberry Pi<br>
+      Developing firmware for embedded systems<br>
+      Experience with sensors, actuators, and communication protocols<br>
+      Bug fixing, testing, and optimization
+  - title: Management and Research
     details: |
-      <div>
-        <li>Laboratory management experience</li>
-        <li>Director of a startup company</li>
-        <li>Biophotonics,Optic research</li>
-        </div>
+      Laboratory management experience<br>
+      Director of a startup company<br>
+      Biophotonics, Optic research
 
 
 ---
