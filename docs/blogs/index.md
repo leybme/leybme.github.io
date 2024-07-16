@@ -12,6 +12,8 @@ Welcome to the blog section! Here you will find a collection of articles on vari
 
 ## Blog Posts
 
+[3D Printer settings for Beginners](./3dprintersettings.md)
+
 <!-- - [Understanding STM32 Microcontrollers](./stm32-microcontrollers.md)
 - [Designing a Polarimeter for Cancer Cell Analysis](./polarimeter-design.md)
 - [Cost Analysis for Uroflowmeter Components](./uroflowmeter-cost-analysis.md)

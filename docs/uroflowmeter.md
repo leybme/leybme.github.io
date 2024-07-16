@@ -1,6 +1,10 @@
 
 # Design and Development of a Uroflowmeter
 
+## Skills
+
+C++, Microcontroller, Sensor, Data Acquisition, Data Processing, User Interface, Cost Analysis, Compliance, Design for Manufacturing
+
 ## Project Overview
 
 The project aims to design and develop a state-of-the-art uroflowmeter, a medical device used to measure the flow rate of urine over time. This device is critical for diagnosing and monitoring patients with lower urinary tract symptoms (LUTS) and other urological disorders. The uroflowmeter will be designed to be user-friendly, accurate, and cost-effective, providing both patients and healthcare providers with reliable and easy-to-interpret dat
