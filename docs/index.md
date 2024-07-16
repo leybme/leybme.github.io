@@ -21,7 +21,7 @@ hero:
 features:
   - title: Software Dev
     details: Fluency with C#, Building desktop applications,Developing websites
-  - title: Hadware Dev
+  - title: Hardware Dev
     details: PCB design,3D modeling, Bringing ideas to commercial products, Applied compliance
   - title: Management
     details: Laboratory management experience, Startup experience
