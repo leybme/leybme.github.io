@@ -17,7 +17,7 @@ export default defineConfig({
         text: 'Highlights',
         items: [
           { text: 'Rocker Machine', link: '/rocker' },
-          { text: 'Urflowmeter', link: '/uroflowmeter' },
+          { text: 'Uroflowmeter', link: '/uroflowmeter' },
           { text: 'Markdown Examples', link: '/markdown-examples' },
           { text: 'Runtime API Examples', link: '/api-examples' }
         ],

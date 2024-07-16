@@ -37,8 +37,20 @@ The project aims to design and develop a state-of-the-art uroflowmeter, a medica
 ## Outcomes
 
 - Images of device.
+
 - Images of PCB design.
+ ![PCB design](\images\uroflowmeter\pcb1.jpg)
+    ![PCB design](\images\uroflowmeter\pcb2.jpg)
+     ![PCB design](\images\uroflowmeter\pcb3.jpg)
 - Images of 3D design
+ ![3D design](\images\uroflowmeter\3ddesign1.png)
+  ![3D design](\images\uroflowmeter\3ddesign2.jpg)
+   ![3D design](\images\uroflowmeter\3ddesign3.jpg)
+ ![3D design](\images\uroflowmeter\3ddesign4.jpg)
+  ![3D design](\images\uroflowmeter\3ddesign5.jpg)
+   ![3D design](\images\uroflowmeter\3ddesign6.jpg)
+     ![3D design](\images\uroflowmeter\3ddesign8.jpg)
+     ![3D design](\images\uroflowmeter\label.png)
 - Images of software interface.
 
 ## Conclusion
