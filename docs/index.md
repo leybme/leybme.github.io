@@ -19,31 +19,32 @@ hero:
       link: /blogs
 
 features:
-  - title: Software Development
+  - title: Software and Embedded Development
     details: |
-      Fluency with C++, C#, Python<br>
-      Building desktop applications<br>
-      Developing small websites<br>
-      Experience with machine learning, image processing, and data analysis
+      <b>C, C++, C#, Python</b><br>
+      Building desktop applications and websites<br>
+      Developing firmware for STM32, ESP32, Arduino, Raspberry Pi, and RISC-V chips<br>
+      Working with sensors, actuators, and communication protocols (I2C, SPI, UART, ESP-NOW)<br>
+      Bug fixing, testing, and optimization
+
   - title: Hardware Design
     details: |
-      PCB design 2, 4 layers<br>
-      3D CAD design, AutoDesk Fusion, Solidworks<br>
-      3D Print, CNC, Anodized<br>
-      Applied compliance CE, ISO<br>
-      **Bringing ideas to commercial products**
-  - title: Embedded Development
-    details: |
-      Fluency with C++, C#<br>
-      Experience with STM32, ESP32, Arduino, Raspberry Pi<br>
-      Developing firmware for embedded systems<br>
-      Experience with sensors, actuators, and communication protocols<br>
-      Bug fixing, testing, and optimization
+      PCB design (2, 4 layers) AutoDesk Eagle ,EasyEDA Pro<br>
+      Implementing EMI/EMC considerations in PCB designs<br>
+      3D CAD design AutoDesk Fusion, Solidworks<br>
+      Prototyping with 3D printing, CNC machining, and anodizing<br>
+      Designing enclosures and housings for electronic devices<br>
+      Power management and battery integration<br>
+      Bringing ideas to commercial products
+
   - title: Management and Research
     details: |
       Laboratory management experience<br>
+      Applying quality compliance CE, ISO in design and manufacturing<br>
       Director of a startup company<br>
-      Biophotonics, Optic research
+      Biophotonics and optic research<br>
+      Research on cancer, diabetes, and skin diseases<br>
+      Research on polarimetry, uroflowmetry, and spectroscopy
 
 
 ---
