@@ -29,7 +29,7 @@ features:
 
   - title: Hardware Design
     details: |
-      PCB design (2, 4 layers) AutoDesk Eagle ,EasyEDA Pro<br>
+      PCB design (2, 4 layers) AutoDesk Eagle, EasyEDA Pro<br>
       Implementing EMI/EMC considerations in PCB designs<br>
       3D CAD design AutoDesk Fusion, Solidworks<br>
       Prototyping with 3D printing, CNC machining, and anodizing<br>
