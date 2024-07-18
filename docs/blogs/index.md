@@ -11,7 +11,7 @@ title: Blog Index
 Welcome to the blog section! Here you will find a collection of articles on various topics related to embedded programming, hardware design, and biomedical instrumentation.
 
 ## Blog Posts
-
+[BME Conf Vuejs App for display abtract book of conference](./bmeconf.md)
 [3D Printer settings for Beginners](./3dprintersettings.md)
 
 <!-- - [Understanding STM32 Microcontrollers](./stm32-microcontrollers.md)

@@ -25,6 +25,7 @@ export default defineConfig({
       {
         text: 'Blogs',
         items: [
+          { text: 'BME Conf Vuejs App for display abtract book of conference', link: '/blogs/bmeconf' },
           { text: '3D print', link: '/blogs/3dprintersettings' },
 
         ],
