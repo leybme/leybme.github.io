@@ -16,6 +16,7 @@ export default defineConfig({
       {
         text: 'Projects',
         items: [
+          { text: 'Research Publication', link: '/publication' },
           { text: 'Rocker Machine', link: '/rocker' },
           { text: 'Uroflowmeter/Medical Device', link: '/uroflowmeter' },
           { text: 'AI Breast Cancer Classification', link: '/ai-breast-cancer-classification' },
