@@ -28,6 +28,7 @@ export default defineConfig({
         items: [
           { text: 'BME Conf Vuejs App for display abtract book of conference', link: '/blogs/bmeconf' },
           { text: '3D print', link: '/blogs/3dprintersettings' },
+          { text: 'ESP32 Built-in JTAG for Advanced Debugging', link: '/esp32jtagdebug' },
 
         ],
       },
