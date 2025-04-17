@@ -8,7 +8,8 @@ export default defineConfig({
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: 'Home', link: '/' },
-      { text: "Hardware and Firmware", link: '/hardwaredevelopment' },
+      { text: 'Hardware and Firmware', link: '/hardwaredevelopment' },
+      { text: '3D Design and Manufacturing', link: '/3ddesign' },
       { text: 'Projects', link: '/rocker' },
       { text: 'Blogs', link: '/blogs' },
     ],
