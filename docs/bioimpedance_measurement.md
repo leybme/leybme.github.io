@@ -17,3 +17,5 @@ The image of project is private and not available for public view.
  ╚══════╝╚══════╝   ╚═╝   
   L   E   Y   B   M   E     
   ```
+-Image of software interface-
+  ![Software interface](/images/bioimpedance/software.png)

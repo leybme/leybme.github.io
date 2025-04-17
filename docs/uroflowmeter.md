@@ -3,7 +3,7 @@
 
 ## Skills
 
-C++, Microcontroller, Sensor, Data Acquisition, Data Processing, User Interface, Cost Analysis, Compliance, Design for Manufacturing
+C++,C#,WPF, Microcontroller, Sensor, Data Acquisition, Data Processing, User Interface, Cost Analysis, Compliance, Design for Manufacturing
 
 ## Project Overview
 
@@ -15,13 +15,13 @@ The project aims to design and develop a state-of-the-art uroflowmeter, a medica
    - Provides powerful processing capabilities and built-in Wi-Fi/Bluetooth connectivity for data transfer.
    - Ideal for real-time data processing and interfacing with external sensors.
    - Offers a cost-effective solution for integrating advanced features into the uroflowmeter.
-   - **Language: C++**
+   - **Tech: C++, FreeRTOS, ADC filter**
 
 2. **Hardware:**
    - Designed to house the microcontroller and other electronic components efficiently.
    - Ensures a compact and reliable design for the uroflowmeter.
    - Used USB Hub IC for interfacing with the microcontroller to add more capabilities to expand the device
-   - **Software: EasyEDA Pro**
+   - **EasyEDA Pro, Power management**
 
 3. **Cover:**
    - The cover is printed using PETG material, which is durable with humidity and UV resistance.
@@ -36,7 +36,7 @@ The project aims to design and develop a state-of-the-art uroflowmeter, a medica
    - The device is easy to use, operating with only two buttons: one for power and one for waking up the device.
    - The device can be updated over-the-air (OTA) without needing to connect to a PC; just connect to Wi-Fi.
    - Software on the PC can view both data from the device and Firebase Realtime Database, displaying the time, volume, flow rate, and graph of the flow rate. It also displays the data in a history chart.
-   - **Technology: C++, C##, Firebase RTDB**
+   - **Technology: C++, C#, Firebase RTDB**
 
 ## Outcomes
 
@@ -56,6 +56,8 @@ The project aims to design and develop a state-of-the-art uroflowmeter, a medica
      ![3D design](/images/uroflowmeter/3ddesign8.jpg)
      ![3D design](/images/uroflowmeter/label.png)
 - Images of software interface.
+  ![Software interface](/images/uroflowmeter/software.png)
+-I had designed this software on my bachelor thesis, and I had a lot of time to improve it. The software is designed to be user-friendly and easy to navigate, with clear instructions and visual aids to assist users in understanding the data presented. 
 
 ## Conclusion
 
