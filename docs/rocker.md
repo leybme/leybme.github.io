@@ -15,31 +15,37 @@ The rocker shaker machine will be used for various applications, including cell 
 ## Key technologies and challenges
 
 1. **Microcontroller:**
-   - The rocker shaker machine will be controlled by a microcontroller to provide precise control over speed and motion.
-   - The microcontroller must be capable of interfacing with motor drivers, sensors, and user interface components.
-   - The microcontroller will be programmed in C++ to implement the control algorithms and user interface.
+   - C++ based control system for precise speed and motion
+   - Interfaces with motor drivers, sensors, and UI components
+   - Programmed algorithms for control and interface management
+   - ESP32S3 microcontroller with RTOS for real-time performance
+   - Wi-Fi and Bluetooth connectivity for remote monitoring and control
 
 2. **Motor and Drive System:**
-   - The rocker shaker machine will use a stepper motor or DC motor to drive the shaking platform.
-   - The motor must provide smooth and precise motion control, with adjustable speed and acceleration.
-   - The motor driver must be capable of driving the motor efficiently and safely.
+   - Stepper implementation for shaking platform
+   - Closed-loop control for precise speed and position
+   - State-of-the-art motor driver for high efficiency and low noise
 
 3. **Mechanical Design:**
-   - The mechanical design of the rocker shaker machine must be robust and reliable, with minimal vibration and noise.
-   - The shaking platform must be designed to accommodate different cell plate sizes and shapes.
-   - The device must be easy to assemble, disassemble, and clean for maintenance.
+   - Robust construction minimizing vibration and noise
+   - Using gear reduction for torque amplification
+   - Design for cost-effective manufacturing and assembly
+
 4. **Control Algorithm:**
-   - The control algorithm must provide precise control over the speed and motion of the shaking platform.
-   - The algorithm must be optimized for smooth and consistent shaking motion, with adjustable parameters for different applications.
-   - The algorithm must ensure safety and reliability during operation.
+   - High-precision speed and motion control
+   - Optimized for smooth, consistent operation
+   - Safety-oriented operational parameters
+
 5. **User Interface:**
-   - The rocker shaker machine must have a user-friendly interface for setting parameters, monitoring operation, and displaying results.
-   - The user interface must be intuitive and easy to use, with clear feedback and error messages.
-   - The user interface must provide real-time feedback on speed, time, and motion status.
-6. **Safety Features:** 
-   - The rocker shaker machine must have safety features to prevent accidents and protect the user and samples.
-   - Safety features may include emergency stop buttons, overcurrent protection, and fault detection.
-   - The device must comply with safety standards and regulations for laboratory equipment.
+   - Intuitive parameter configuration system
+   - Real-time operational feedback
+   - Clear status and error reporting
+
+6. **Safety Features:**
+   - Emergency stop functionality
+   - Overcurrent and fault protection
+   - Complete technical documentation, that includes user manual, assembly instructions, and maintenance guidelines
+   - Complete compliance with laboratory safety standards and regulations
 
 ## Outcomes
 
@@ -50,6 +56,11 @@ The rocker shaker machine will be used for various applications, including cell 
     ![3D design](/images/rocker/3ddesign3.png)
 
     ![3D design](/images/rocker/3ddesign2.png)
+
+    ![Hipot Test Image](/images/rocker/hipot_image.jpeg)
+-Device is tested and verified for performance and safety.
+
+    ![Real Machine Image](/images/rocker/real_image.jpeg)
+
   
-- Images of the control system and user interface.
-- Video demonstration of the rocker shaker machine in operation.
+
