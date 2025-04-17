@@ -1,4 +1,5 @@
-# List of papers associated with the ORCID iD 0000-0003-1969-0868 Nguyen Le Y:
+# List of papers of Nguyen Le Y:
+## ORCID iD 0000-0003-1969-0868
 
 1. **Feasibility of Hepatitis B virus infection detection using Mueller matrix decomposition method and Mueller matrix imaging polarimetry technique**
    - **Journal:** Optics Communications, 2022

@@ -21,6 +21,7 @@ export default defineConfig({
           { text: 'Uroflowmeter/Medical Device', link: '/uroflowmeter' },
           { text: 'AI Breast Cancer Classification', link: '/ai-breast-cancer-classification' },
           { text: 'Automation trading system', link: '/autotradingsystem' },
+          { text: 'Biomimpedance measurement', link: '/bioimpedance_measurement' },
         ],
       },
       {
