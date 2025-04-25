@@ -20,10 +20,10 @@ export default defineConfig({
         items: [
           { text: 'Research Publication', link: '/publication' },
           { text: 'Rocker Machine', link: '/rocker' },
+          { text: 'Biomimpedance measurement', link: '/bioimpedance_measurement' },
           { text: 'Uroflowmeter/Medical Device', link: '/uroflowmeter' },
           { text: 'AI Breast Cancer Classification', link: '/ai-breast-cancer-classification' },
           { text: 'Automation trading system', link: '/autotradingsystem' },
-          { text: 'Biomimpedance measurement', link: '/bioimpedance_measurement' },
         ],
       },
       {
