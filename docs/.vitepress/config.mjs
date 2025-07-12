@@ -12,6 +12,7 @@ export default defineConfig({
       { text: '3D Design and Manufacturing', link: '/3ddesign' },
       { text: 'Projects', link: '/rocker' },
       { text: 'Blogs', link: '/blogs' },
+      { text: "Khóa học STM32", link: '/stm32-vi' },
     ],
 
     sidebar: [

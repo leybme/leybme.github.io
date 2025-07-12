@@ -5,7 +5,7 @@ Hands-on embedded systems engineer with a strong background in biomedical instru
 ## 🛠 Technical Skills
 
 ### Hardware Design & Prototyping
-- Multilayer PCB layout and schematic design using *EasyEDA* 
+- Multilayer PCB layout and schematic design using *EasyEDA*, Altium
 - Signal routing with consideration of SI/PI, EMI mitigation, and grounding strategies
 - Design validation with oscilloscope, logic analyzer, and custom test jigs
 
