@@ -12,6 +12,7 @@ export default defineConfig({
       { text: '3D Design and Manufacturing', link: '/3ddesign' },
       { text: 'Projects', link: '/rocker' },
       { text: 'Blogs', link: '/blogs' },
+      { text: 'Tools', link: '/tools/' },
       { text: "Khóa học STM32", link: 'https://leybme.github.io/stm32-vi/' },
     ],
 
@@ -25,6 +26,13 @@ export default defineConfig({
           { text: 'Uroflowmeter/Medical Device', link: '/uroflowmeter' },
           { text: 'AI Breast Cancer Classification', link: '/ai-breast-cancer-classification' },
           { text: 'Automation trading system', link: '/autotradingsystem' },
+        ],
+      },
+      {
+        text: 'Tools',
+        items: [
+          { text: 'Tools Overview', link: '/tools/' },
+          { text: 'PT5 Reader', link: '/tools/pt5reader' },
         ],
       },
       {
