@@ -44,6 +44,7 @@ When both Main and USB are captured, the channel with the larger average magnitu
 
 ## Download
 
+- [Windows executable (zip)](/tools/Pt5Reader-win.zip) — `Pt5Reader.exe` for Windows (.NET Framework 4.8, included with Windows 10/11). Unzip and run from a terminal.
 - [Source code (zip)](/tools/Pt5Reader-source.zip) — C# project targeting .NET Framework 4.8; build with Visual Studio.
 
 ## Notes
